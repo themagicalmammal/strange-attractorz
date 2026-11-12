@@ -31,12 +31,12 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "strange-attractorz": ">=1.0.0",
-    "three": "^0.175.0"
+    "three": "^0.187.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
-    "@types/three": "^0.175.0",
+    "@types/three": "^0.187.0",
     "@vitejs/plugin-react": "^4.7.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
