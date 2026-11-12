@@ -28,8 +28,8 @@
     "build:package": "rm -rf dist && npm run build && npm run build:types && cp src/styles.css dist/styles.css"
   },
   "peerDependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "strange-attractorz": ">=1.0.0",
     "three": "^0.187.0"
   },
