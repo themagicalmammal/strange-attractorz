@@ -67,7 +67,7 @@
     "@types/three": "^0.187.0",
     "@typescript-eslint/eslint-plugin": "^8.65.0",
     "@typescript-eslint/parser": "^8.65.0",
-    "@vitejs/plugin-react": "^4.7.0",
+    "@vitejs/plugin-react": "^6.3.0",
     "autoprefixer": "^10.6.2",
     "brace-expansion": "^5.0.12",
     "eslint": "^10.8.0",
@@ -80,6 +80,6 @@
     "tailwindcss": "^3.4.19",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^7.0.2",
-    "vite": "^6.4.3"
+    "vite": "^8.3.8"
   }
 }
